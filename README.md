@@ -15,7 +15,6 @@ Welcome to my Github page! I am Nobi and I am currently finishing my Computer Sc
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 5 hours a day
-- Exercising on regular basis
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
