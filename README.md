@@ -13,7 +13,7 @@ Welcome to my Github page! I am Nobi and I am currently finishing my Computer Sc
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science Bachelor Degree  
 - Taking online courses about Software Engineering, Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
@@ -23,7 +23,7 @@ Welcome to my Github page! I am Nobi and I am currently finishing my Computer Sc
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=noufeel&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
