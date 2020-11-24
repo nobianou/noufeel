@@ -7,9 +7,6 @@
 
 Welcome to my Github page! I am Nobi and I am currently finishing my Computer Science Bachelor degree at Lehman College of the City University of New York!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
-
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science Bachelor Degree  
 - Taking online courses about Software Engineering, Data Science and Machine Learning 
@@ -32,7 +29,7 @@ Welcome to my Github page! I am Nobi and I am currently finishing my Computer Sc
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
