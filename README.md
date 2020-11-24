@@ -1,9 +1,8 @@
 ### Hi there 👋 
 ### This is Nobi Noufeel!
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/noufeel)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nobi-alam-noufeel-974a26177/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+
 
 Welcome to my Github page! I am Nobi and I am currently finishing my Computer Science Bachelor degree at Lehman College of the City University of New York!  
 
