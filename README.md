@@ -2,7 +2,7 @@
 ### This is Nobi Noufeel!
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nobi-alam-noufeel-974a26177/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
-Blog and Youtube
+(To be added: Blog post and Youtube)
 
 Welcome to my Github page! I am Nobi and I am currently finishing my Computer Science Bachelor degree at Lehman College of the City University of New York!  
 
