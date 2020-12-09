@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 (To be added: Blog post and Youtube)
 
-Welcome to my Github page! I am Nobi and I am currently finishing my Computer Science Bachelor degree at Lehman College of the City University of New York!  
+Welcome to my Github page! I am currently finishing my Computer Science Bachelor degree at Lehman College of the City University of New York!  
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science Bachelor Degree  
